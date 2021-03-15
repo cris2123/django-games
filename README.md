@@ -1,6 +1,6 @@
 # Vgames
 
-A web app to keep tracks of my videogames.
+A web app to track videogames.
 
 ## Setup
 
